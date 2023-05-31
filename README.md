@@ -7,6 +7,7 @@ Steps to follow to run this API server:
 
 ### Step 01: Create the deployment and the service using the following commands
 `kubectl apply -f http-api-server-deployment.yaml`
+
 `kubectl apply -f http-api-server-service.yaml`
 
 ### Step 02: To know your node's ip 
